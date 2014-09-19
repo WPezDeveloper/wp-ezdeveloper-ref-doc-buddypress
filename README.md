@@ -33,5 +33,7 @@ http://wp-events-plugin.com/documentation/buddypress/
 
 https://wordpress.org/plugins/buddypress-group-email-subscription/
 
+https://wordpress.org/plugins/bp-groupblog/
+
 https://wordpress.org/plugins/buddypress-docs/
 https://wordpress.org/plugins/events-manager/
