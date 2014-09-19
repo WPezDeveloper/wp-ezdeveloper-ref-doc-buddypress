@@ -7,6 +7,8 @@ A collection of knowledge as it relates to the WordPress plugin BuddyPress.
 
 https://profiles.wordpress.org/boonebgorges/
 
+http://buddypress.org/extend/recommended-plugins/
+
 SMS => https://wordpress.org/plugins/notifly/
 
 http://buddypress.org/support/topic/block-an-additional-page-w-walled-garden-code/
