@@ -14,3 +14,5 @@ https://wordpress.org/plugins/buddypress-media/
 https://wordpress.org/plugins/buddypress-activity-privacy/
 
 http://premium.wpmudev.org/blog/add-privacy-controls-to-the-buddypress-activity-stream/
+
+http://premium.wpmudev.org/blog/category/buddypress-plugins-buddypress/
