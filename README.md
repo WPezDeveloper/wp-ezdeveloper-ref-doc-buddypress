@@ -22,3 +22,7 @@ http://codex.buddypress.org/themes/bp-custom-php/
 http://bp-tricks.com/featured/5-great-buddypress-quick-tips-community/
 
 https://wordpress.org/plugins/quick-chat/
+
+NH => https://wordpress.org/plugins/achievements/
+
+https://wordpress.org/plugins/buddypress-links/
