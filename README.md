@@ -28,3 +28,5 @@ NH => https://wordpress.org/plugins/achievements/
 https://wordpress.org/plugins/buddypress-links/
 
 http://www.magpress.com/blog/10-useful-custom-functions-for-buddypress-themes
+
+http://wp-events-plugin.com/documentation/buddypress/
