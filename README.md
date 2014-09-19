@@ -32,3 +32,5 @@ http://www.magpress.com/blog/10-useful-custom-functions-for-buddypress-themes
 http://wp-events-plugin.com/documentation/buddypress/
 
 https://wordpress.org/plugins/buddypress-group-email-subscription/
+
+https://wordpress.org/plugins/events-manager/
