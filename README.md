@@ -20,3 +20,5 @@ http://premium.wpmudev.org/blog/category/buddypress-plugins-buddypress/
 http://codex.buddypress.org/themes/bp-custom-php/
 
 http://bp-tricks.com/featured/5-great-buddypress-quick-tips-community/
+
+https://wordpress.org/plugins/quick-chat/
