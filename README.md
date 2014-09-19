@@ -10,3 +10,5 @@ http://buddypress.org/support/topic/block-an-additional-page-w-walled-garden-cod
 https://wordpress.org/plugins/buddypress-activity-plus/
 
 https://wordpress.org/plugins/buddypress-media/
+
+https://wordpress.org/plugins/buddypress-activity-privacy/
