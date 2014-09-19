@@ -18,3 +18,5 @@ http://premium.wpmudev.org/blog/add-privacy-controls-to-the-buddypress-activity-
 http://premium.wpmudev.org/blog/category/buddypress-plugins-buddypress/
 
 http://codex.buddypress.org/themes/bp-custom-php/
+
+http://bp-tricks.com/featured/5-great-buddypress-quick-tips-community/
