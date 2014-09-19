@@ -26,3 +26,5 @@ https://wordpress.org/plugins/quick-chat/
 NH => https://wordpress.org/plugins/achievements/
 
 https://wordpress.org/plugins/buddypress-links/
+
+http://www.magpress.com/blog/10-useful-custom-functions-for-buddypress-themes
