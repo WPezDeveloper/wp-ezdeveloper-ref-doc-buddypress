@@ -11,6 +11,8 @@ http://buddypress.org/extend/recommended-plugins/
 
 SMS => https://wordpress.org/plugins/notifly/
 
+https://codex.buddypress.org/getting-started/customizing/changing-internal-configuration-settings/
+
 http://buddypress.org/support/topic/block-an-additional-page-w-walled-garden-code/
 
 https://wordpress.org/plugins/buddypress-activity-plus/
