@@ -3,7 +3,17 @@ wp-ezdeveloper-ref-doc-buddypress
 
 A collection of knowledge as it relates to the WordPress plugin BuddyPress.
 
-=====================================================================================
+
+
+---
+
+**"What this WPezDevelope Ref Doc stuff all about?"**
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
+---
+
+
 
 https://profiles.wordpress.org/boonebgorges/
 
